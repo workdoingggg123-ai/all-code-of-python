@@ -1,0 +1,18 @@
+{'device_type': 'mobile', 'name': 'oppo', 'price': 40000, 'brand': 'oppo'}
+{'device_type': 'mobile', 'name': 'realme n53', 'price': 14000, 'brand': 'realme'}
+{'device_type': 'mobile', 'name': 'lava', 'price': 32435465, 'brand': 'lav'}
+{'device_type': 'mobile', 'name': 'vivo y78', 'price': 435566, 'brand': 'vivo'}
+{'device_type': 'mobile', 'name': 'teals', 'price': 32324, 'brand': 'vivo'}
+{'device_type': 'LAPTOP', 'name': 'hp victus', 'price': 120000, 'brand': 'hp'}
+{'device_type': 'LAPTOP', 'name': 'lenovo', 'price': 9090, 'brand': 'lenovo'}
+{'device_type': 'LAPTOP', 'name': 'hp probook', 'price': 2454, 'brand': 'hp'}
+{'device_type': 'EARBUDS', 'name': 'boat anc 131 elit', 'price': 1500, 'brand': 'boat'}
+{'device_type': 'EARBUDS', 'name': 'boult 890 x', 'price': 5000, 'brand': 'boult'}
+{'device_type': 'EARBUDS', 'name': 'boat epic nb', 'price': 9000, 'brand': 'boat'}
+{'device_type': 'EARBUDS', 'name': 'apple pro 3', 'price': 25000, 'brand': 'apple'}
+{'device_type': 'EARBUDS', 'name': 'nothing pro 4', 'price': 3500, 'brand': 'nothing'}
+{'device_type': 'EARBUDS', 'name': 'nothing 2a', 'price': 3400, 'brand': 'nothing'}
+{'device_type': 'LAPTOP', 'name': 'MAC AIR', 'price': 1200000, 'brand': 'apple'}
+{'device_type': 'LAPTOP', 'name': 'mac book m4 pro', 'price': 130000, 'brand': 'apple'}
+{'device_type': 'LAPTOP', 'name': 'hp edge 43', 'price': 435600, 'brand': 'hp'}
+{'device_type': 'LAPTOP', 'name': 'apple air ', 'price': 300000, 'brand': 'apple'}

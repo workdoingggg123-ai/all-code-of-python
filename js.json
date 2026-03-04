@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "friends": [2, 3, 2],
+      "liked_pages": [101, 102]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "friends": [],
+      "liked_pages": []
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "friends": [1],
+      "liked_pages": [101, 103, 103]
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "friends": [],
+      "liked_pages": [104]
+    }
+  ],
+  "pages": [
+    {
+      "id": 101,
+      "name": "Python Programming",
+      "category": "Education"
+    },
+    {
+      "id": 102,
+      "name": "AI Research",
+      "category": "Technology"
+    },
+    {
+      "id": 101,
+      "name": "Python Programming",
+      "category": "Education"
+    },
+    {
+      "id": 103,
+      "name": "Web Development",
+      "category": "Technology"
+    },
+    {
+      "id": 104,
+      "name": "Fitness Club",
+      "category": "Health"
+    },
+    {
+      "id": 104,
+      "name": "Fitness Club",
+      "category": "Health"
+    }
+  ]
+}
