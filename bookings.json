@@ -1,0 +1,2 @@
+{"source": "ahmednad", "destination": "goa", "booking_id": "BXUTS0C5", "date": "2026-03-04", "passengers": [{"name": "meet", "age": 25, "gender": "Male", "seat": "1A"}], "status": "CONFIRMED", "total_fare": 6293, "payment_method": "UPI", "payment_status": "PAID"}
+{"source": "fe", "destination": "ne", "booking_id": "PKVVGB8X", "date": "2026-03-01", "passengers": [{"name": "jfoed", "age": 25, "gender": "Male", "seat": "1A"}], "status": "CONFIRMED", "total_fare": 5771, "payment_method": "UPI", "payment_status": "PAID"}
